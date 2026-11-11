@@ -2,6 +2,12 @@
 
 Public record of changes to graphsmith, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-10 (release v0.5.0)
+
+- 2026-11-10: Land PR #121 merged into main as a13b073 (39 lane PRs included); no feature label changed this round. Tagged v0.5.0 at a13b073.
+
+Score 82 / 100 on our own rubric, scored 2026-11-10. Product page: https://shipitworks.com/apps/#graphsmith
+
 ## 2026-11-08 (release v0.4.0)
 
 - 2026-11-08: Release v0.4.0 on main head b9aca48. CI moved to the self-hosted runner (PR #107). Recorded browser run of the readiness report, coverage, State map, decision rules and connections: 28/28 on three templates, the control fails (PR #75, proof/readiness-state.log). Lane notes added to FOUND.md (PR #31).

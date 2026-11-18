@@ -2,6 +2,12 @@
 
 Public record of changes to graphsmith, written from the product page on shipitworks.com. The source is private. Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Release tags exist on the private repository's default branch.
 
+## 2026-11-18 (release v0.5.0)
+
+- 2026-11-18: A review at commit 8f883bb ran 881 tests (881 passed) and check:ui 32/32, and ran the exported files unchanged: 17 of 17 in LangGraph and 15 of 17 in n8n. The n8n export target was removed from Where it's going because the export is built. No feature label or score changed.
+
+Score 82 / 100 on our own rubric, scored 2026-11-12. Product page: https://shipitworks.com/graphsmith/
+
 ## 2026-11-10 (release v0.5.0)
 
 - 2026-11-10: Land PR #121 merged into main as a13b073 (39 lane PRs included); no feature label changed this round. Tagged v0.5.0 at a13b073.
